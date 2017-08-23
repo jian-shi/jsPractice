@@ -1,0 +1,5 @@
+Liu Bei,Dilu Horse,1,200
+Liu Bei,ShuangGu Jian,2,00
+Guan Yu,Chitu Horse,1,500
+Guan Yu,ChunQiu,5,0
+Chao Cao,MengDe XinShu,1000,10
